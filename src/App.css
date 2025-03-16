@@ -1,0 +1,19 @@
+/* App styles */
+.container {
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.layout {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.main-column {
+  width: 66.666667%;
+}
+
+.sidebar-column {
+  width: 33.333333%;
+}
